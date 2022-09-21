@@ -1,0 +1,8 @@
+name: const_finder_workspace
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  args: any
+  const_finder:
+    path: ../../engine/src/flutter/tools/const_finder
