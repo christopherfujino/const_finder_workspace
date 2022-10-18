@@ -1,6 +1,7 @@
-app.dill
-app.dill.deps
-log.txt
+*.dill
+*.dill.deps
+*.txt
+*.json
 .dart_tool
 android.json
 web.json
